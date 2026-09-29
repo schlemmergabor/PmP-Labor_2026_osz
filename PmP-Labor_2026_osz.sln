@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L01-utasitasok", "L01-utasi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L02-ciklusok", "L02-ciklusok\L02-ciklusok.csproj", "{2EEF3E00-50B1-4239-A346-BA2476D88148}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L03-tombok", "L03-tombok\L03-tombok.csproj", "{23B63605-F62C-4436-938A-87F8896C5DB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2EEF3E00-50B1-4239-A346-BA2476D88148}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EEF3E00-50B1-4239-A346-BA2476D88148}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EEF3E00-50B1-4239-A346-BA2476D88148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B63605-F62C-4436-938A-87F8896C5DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B63605-F62C-4436-938A-87F8896C5DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B63605-F62C-4436-938A-87F8896C5DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B63605-F62C-4436-938A-87F8896C5DB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
